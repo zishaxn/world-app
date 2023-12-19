@@ -1,7 +1,6 @@
 # The World
 
-This is a simple react.js app that demonstrates how to use the MaterialUI library to build UI components, and how to integrate the APIs using Axios.
-
+This is a simple react.js app that will give you details of countries.
 ## Requirements
 
 - Node.js >=18
